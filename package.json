@@ -1,5 +1,5 @@
 {
-  "name": "json-server",
+  "name": "json-server Aysad Kozanoglu",
   "version": "0.8.22",
   "description": "Serves JSON files through REST routes.",
   "main": "./src/server/index.js",
@@ -53,7 +53,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/typicode/json-server.git"
+    "url": "git://github.com/AysadKozanoglu/json-server-node.git"
   },
   "keywords": [
     "JSON",
@@ -71,10 +71,10 @@
     "dummy",
     "sandbox"
   ],
-  "author": "Typicode <typicode@gmail.com>",
+  "author": "Aysad Kozanoglu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/typicode/json-server/issues"
+    "url": "https://github.com/AysadKozanoglu/json-server-node/issues"
   },
-  "homepage": "https://github.com/typicode/json-server"
+  "homepage": "https://github.com/AysadKozanoglu/json-server-node"
 }

@@ -7,9 +7,6 @@ Created with <3 for front-end developers who need a quick back-end for prototypi
 * [Egghead.io free video tutorial - Creating demo APIs with json-server](https://egghead.io/lessons/nodejs-creating-demo-apis-with-json-server)
 * [JSONPlaceholder - Live running version](http://jsonplaceholder.typicode.com)
 
-See also:
-* :hotel: [hotel - Get local domains in seconds](https://github.com/typicode/hotel)
-* :dog: [husky - Git hooks made easy](https://github.com/typicode/husky)
 
 ## Example
 
@@ -462,6 +459,3 @@ You can deploy JSON Server. For example, [JSONPlaceholder](http://jsonplaceholde
 * [JSON Server GUI](https://github.com/naholyr/json-server-gui)
 * [JSON file generator](https://github.com/dfsq/json-server-init)
 
-## License
-
-MIT - [Typicode](https://github.com/typicode)
